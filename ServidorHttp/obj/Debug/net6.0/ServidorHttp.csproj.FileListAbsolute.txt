@@ -1,0 +1,15 @@
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Servidor\ServidorHttp\ServidorHttp\bin\Debug\net6.0\ServidorHttp.exe
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Servidor\ServidorHttp\ServidorHttp\bin\Debug\net6.0\ServidorHttp.deps.json
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Servidor\ServidorHttp\ServidorHttp\bin\Debug\net6.0\ServidorHttp.runtimeconfig.json
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Servidor\ServidorHttp\ServidorHttp\bin\Debug\net6.0\ServidorHttp.dll
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Servidor\ServidorHttp\ServidorHttp\bin\Debug\net6.0\ServidorHttp.pdb
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Servidor\ServidorHttp\ServidorHttp\obj\Debug\net6.0\ServidorHttp.csproj.AssemblyReference.cache
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Servidor\ServidorHttp\ServidorHttp\obj\Debug\net6.0\ServidorHttp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Servidor\ServidorHttp\ServidorHttp\obj\Debug\net6.0\ServidorHttp.AssemblyInfoInputs.cache
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Servidor\ServidorHttp\ServidorHttp\obj\Debug\net6.0\ServidorHttp.AssemblyInfo.cs
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Servidor\ServidorHttp\ServidorHttp\obj\Debug\net6.0\ServidorHttp.csproj.CoreCompileInputs.cache
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Servidor\ServidorHttp\ServidorHttp\obj\Debug\net6.0\ServidorHttp.dll
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Servidor\ServidorHttp\ServidorHttp\obj\Debug\net6.0\refint\ServidorHttp.dll
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Servidor\ServidorHttp\ServidorHttp\obj\Debug\net6.0\ServidorHttp.pdb
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Servidor\ServidorHttp\ServidorHttp\obj\Debug\net6.0\ServidorHttp.genruntimeconfig.cache
+C:\Users\Wagner Melo\Desktop\Backup\Alura\Servidor\ServidorHttp\ServidorHttp\obj\Debug\net6.0\ref\ServidorHttp.dll
